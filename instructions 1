@@ -1,0 +1,20 @@
+(design task )
+You are required to design a bank system in C++ with the following specifications:
+
+Create a parent class that includes three common functions shared by all tellers.
+
+Implement three child classes representing different tellers. Each child class should inherit from the parent class.
+
+Each teller should have one unique special function in addition to the inherited functions.
+
+Include a private timer (or counter) for each teller. Once the timer ends, the teller is considered closed and can no longer be accessed.
+
+Store all teller objects in a vector.
+
+Use at least one dynamically allocated object (e.g., a class pointer).
+
+Finally, print the data of all tellers stored in the vector.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Debugging Task :
+
+You are required to identify and fix errors in the provided C++ file so that it compiles and runs correctly.
