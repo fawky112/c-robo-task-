@@ -14,7 +14,7 @@ Store all teller objects in a vector.
 Use at least one dynamically allocated object (e.g., a class pointer).
 
 Finally, print the data of all tellers stored in the vector.
+note evrey class should be modulated
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Debugging Task :
-
 You are required to identify and fix errors in the provided C++ file so that it compiles and runs correctly.
